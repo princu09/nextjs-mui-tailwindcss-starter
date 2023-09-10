@@ -1,7 +1,8 @@
 {
-  "name": "nextjs-mui-tailwindcss-starter",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@northfoxgroup/next-mui",
+  "version": "1.4.0",
+  "private": false,
+  "bin": "./bin/cli.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
