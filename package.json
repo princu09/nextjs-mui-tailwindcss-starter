@@ -3,6 +3,10 @@
   "version": "1.4.0",
   "private": false,
   "bin": "./bin/cli.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/princu09/nextjs-mui-tailwindcss-starter.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
